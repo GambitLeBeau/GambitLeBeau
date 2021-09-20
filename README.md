@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GambitLeBeau
 - 👀 I’m interested in ...Cloud Computing, System Adminstration, Solutions Architecture, and DevOps
 - 🌱 I’m currently learning ...Python for Automation
-- 💞️ I’m looking to collaborate on ...designing, implementing, managing, securing, and deploying fleets of virtual instances
+- 💞️ I’m looking to collaborate on ...designing, implementing, managing, securing, deploying fleets of virtual instances, and migrating on-premise to the cloud
 - 📫 How to reach me ...xiceman@protonmail.com
 
 <!---
